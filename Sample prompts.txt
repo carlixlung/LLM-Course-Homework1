@@ -1,0 +1,13 @@
+prompt1 = """
+
+        What hospitals have the most inpatient beds in California?
+        
+        Use sequential thinking to help break down the tasks.
+
+        Then analyze the results and identify the hospital with most beds
+        
+        Create a txt file in {research_folder} with your findings""" 
+
+prompt2 = """Use Brave Search tool to get to Tahoe Forest Health System's website. Use puppeteer to click the Equity Report word and print what is on the page.""" 
+
+prompt3 = """Create a GitHub repository called 'hello_world_ollama'. Then create a file 'hello_world.py' with this code: print('Hello World!') Use create_repository, then create_or_update_file."""
